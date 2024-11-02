@@ -556,7 +556,7 @@ Primary use:	CV / Resume
     background: #fafafa;
   }
   .timeline-progress {
-    background: url('../img/progress-bar.png') repeat-y center;
+    background: url('./img/progress-bar.png') repeat-y center;
     background-size: 400px 9px;
   }
   .timeline-point {
