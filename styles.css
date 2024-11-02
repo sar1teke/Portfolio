@@ -53,7 +53,7 @@ Primary use:	CV / Resume
   }
   body {
     font-family: 'Open Sans', sans-serif;
-    background-image: url('/img/background2.jpg');
+    background-image: url('./img/background2.jpg');
     background-attachment: fixed;
     background-repeat: repeat-x;
     background-color: #3b658a;
@@ -492,7 +492,7 @@ Primary use:	CV / Resume
     padding-top: 15px;
   }
   .resume-container {
-    background: url('../img/paper-bg2.png') no-repeat top left, url('../img/paper-bg-bot.png') no-repeat bottom right, #fafafa;
+    background: url('./img/paper-bg2.png') no-repeat top left, url('./img/paper-bg-bot.png') no-repeat bottom right, #fafafa;
   }
   /* ==========================================================
   ! 7. Profile intro
@@ -556,27 +556,27 @@ Primary use:	CV / Resume
     background: #fafafa;
   }
   .timeline-progress {
-    background: url('/img/progress-bar.png') repeat-y center;
+    background: url('./img/progress-bar.png') repeat-y center;
     background-size: 400px 9px;
   }
   .timeline-point {
-    background: url('/img/progress-point.png') center center;
+    background: url('./img/progress-point.png') center center;
     background-size: 400px 500px;
   }
   .timeline-education {
-    background: url('/img/progress-education4.png') no-repeat center center;
+    background: url('./img/progress-education4.png') no-repeat center center;
     background-size: 400px 500px;
   }
   .timeline-work {
-    background: url('/img/progress-work3.png') no-repeat center center;
+    background: url('./img/progress-work3.png') no-repeat center center;
     background-size: 400px 500px;
   }
   .timeline-mail {
-    background: url('/img/progress-mail3.png') no-repeat center center;
+    background: url('./img/progress-mail3.png') no-repeat center center;
     background-size: 400px 500px;
   }
   .timeline-title {
-    background: url('/img/progress-section-title3.png') no-repeat center center;
+    background: url('./img/progress-section-title3.png') no-repeat center center;
     background-size: 400px 500px;
   }
   .timeline-margin .content-wrap {
